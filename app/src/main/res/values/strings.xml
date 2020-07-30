@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationTestApp</string>
+    <string name="channel_name">Emme channel yay</string>
+    <string name="channel_description">this is a test channel for emme</string>
+</resources>
